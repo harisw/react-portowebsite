@@ -20,9 +20,24 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -35,15 +50,15 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"Pusan National University",
-        "degree":"Master in Computer Engineering",
-        "graduated":"February 2022",
-        "description":"While here, I spent most of my time learning database system and blockchain (Solidity and Hyperledger fabric). Since then, I am looking forward to utilize the blockchain's nature which are secure and decentralized. Under the supervision and guidance of my Professor, I was working to develop several project in C++. These projects are including but not limited to vessel simulation and rule engine visualization desktop application."
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2017",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"Sepuluh Nopember Institute of Technology",
-        "degree":"Bachelor in Computer Science",
-        "graduated":"September 2018",
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2013",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
