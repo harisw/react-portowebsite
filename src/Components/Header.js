@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
+import TsParticle from 'react-tsparticles';
 
 import Navbar from "./Navbar";
 
@@ -22,12 +23,69 @@ class Header extends Component {
         </li>
       );
     });
+
+    const particleOptions = {
+      fpsLimit: 60,
+      background: {
+        color: "#0b032d"
+      },
+      backgroundMode: {
+        enable: true
+      },
+      fullScreen: false,
+      particles: {
+        color: {
+          value: ["#f67e7d", "#843b62", "#621940"]
+        },
+        links: {
+          color: "#ffb997",
+          enable: true
+        },
+        move: {
+          enable: true,
+          speed:5
+        },
+        size: {
+          value: 5,
+          random: {
+            enable: true,
+            minimumValue: 1
+          },
+          animation: {
+            enable: true,
+            speed: 2.5,
+            minimumValue: 1
+          }
+        },
+        opacity: {
+          value: 0.8,
+          random: {
+            enable: true,
+            minimumValue: 0.4
+          }
+        }
+      },
+      interactivity: {
+        events: {
+          onClick: {
+            enable: true,
+            mode: "push",
+          },
+          onHover: {
+            enable: true,
+            mode: "repulse",
+          },
+          resize: true,
+        }
+      }
+    };
     return (
       <header id="home">
-        <ParticlesBg type="circle" bg={true} />
+        {/* <ParticlesBg type="circle" bg={true} /> */}
         <Navbar />
+        
+        <div className="row banner" >
 
-        <div className="row banner">
           <div className="banner-text">
             <Fade bottom>
               <h1 className="responsive-headline">{header}</h1>
@@ -55,6 +113,7 @@ class Header extends Component {
             <i className="icon-down-circle"></i>
           </a>
         </p>
+        <TsParticle options={particleOptions} style={{position: 'absolute', top: 0, left: 0, zIndex: -100}}/>
       </header>
     );
   }
