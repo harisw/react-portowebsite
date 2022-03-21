@@ -4,7 +4,7 @@
     "header": "I'm Hari",
     "description":"I am a freelance developer currently residing in South Korea",
     "image":"profpic.webp",
-    "bio":"I am a quick to learn person and willing to discover and accept new ideas. I got my CS degree in Indonesia, then I got my Master degree in Pusan National University recently. I have worked as software engineer in different places for six years. Mostly I used PHP framework such as Laravel and Codeigniter. I also work with C++ to develop a desktop apps. In spare time, I like to create some utility tools for my own daily purposes using Python or Javascript. Currently, I am focused on learning React Native to develop a cross platform apps. Additionally, I'm also interested to work with Web 3.0 technology especially Blockchain (e.g: Smart contract, Bitcoin)",
+    "bio":"I am a quick to learn person and willing to discover and accept new ideas. I got my CS degree in Indonesia, then I got my Master's degree in Pusan National University recently. I have worked as a software engineer in different places for six years. Mostly I used PHP frameworks such as Laravel and Codeigniter, otherwise I used Nodejs and GraphQL to build an API. I also work with C++ to develop desktop apps. In my spare time, I like to create some utility tools for my daily purposes(e.g: data visualization, web crawler, etc) using Python or Javascript. Currently, I am focused on learning React Native to develop cross-platform apps. Additionally, I'm also interested to work with Web 3.0 technology especially Blockchain (e.g: Smart contract, Bitcoin)",
     "contactmessage":"If you have any inquiry you can contact me by email",
     "email": "haristw16@gmail.com",
     "phone": "555-555-5555",
@@ -43,13 +43,13 @@
         "school":"Pusan National University",
         "degree":"Master in Computer Engineering",
         "graduated":"February 2022",
-        "description":"While here, I spent most of my time learning database system and blockchain (Solidity and Hyperledger fabric). Since then, I am looking forward to utilize the blockchain's nature which are secure and decentralized. Under the supervision and guidance of my Professor, I was working to develop several project in C++. These projects are including but not limited to vessel simulation and rule engine visualization desktop application."
+        "description":"While here, I spent most of my time learning database systems and blockchain (Solidity and Hyperledger fabric). Since then, I am looking forward to utilizing the blockchain's nature which is secure and decentralized. Under the supervision and guidance of my Professor, I was working to develop several projects in C++. These projects are including but are not limited to vessel simulation and rule engine visualization desktop applications."
       },
       {
         "school":"Sepuluh Nopember Institute of Technology",
         "degree":"Bachelor in Computer Science",
         "graduated":"September 2018",
-        "description":"Here I found my passion to dive into the software engineering path. I studied a lot about a good database design, the importance of fault-tolerance database, etc. I finished my thesis with a topic about emotion recognition from text using ensemble method."
+        "description":"Here I found my passion to dive into the software engineering path. I studied a lot about a good database design, the importance of a fault-tolerance database, etc. I finished my thesis with a topic about emotion recognition from text using the ensemble method."
       }
     ],
     "work":[
@@ -57,19 +57,19 @@
         "company":"Medify.id",
         "title":"Software Engineer",
         "years":"September 2017 - March 2020",
-        "description":"I gained most of my development experience here, since I had joined Medify.id from the beginning as a startup company. I worked to develop a hospital information system from the bottom using Laravel with my team. Since Medify.id focuses on medical field system, I had to built an API system to receive the data provided by laboratorium devices. I also had the chance to developed the API using Node.js for the mobile application."
+        "description":"I gained most of my development experience here since I had joined Medify.id from the beginning as a startup company. I worked to develop a hospital information system from the bottom using Laravel with my team. Since Medify.id focuses on the medical field system, I had to build an API system to receive the data provided by laboratory devices. I also had the chance to develop the API using Node.js for the mobile application."
       },
       {
         "company":"KASKUS Networks",
         "title":"Software Engineer Internship",
         "years":"June 2017 - August 2017",
-        "description":"Working for a mature startup company gave me a big insight about being a software engineer. Here, I gained a chance to develop an HTML email template generator that can adapt to various marketing requirement using Codeigniter. I also learn how a continuous integration and deployment are used, so the company website can continuously serving while adding new features. Jenkins, containerization, and testing working together to make continuous integration possible."
+        "description":"Working for a mature startup company gave me a big insight into being a software engineer. Here, I gained a chance to develop an HTML email template generator that can adapt to various marketing requirements using Codeigniter. I also learn how continuous integration and deployment are used, so the company website can continue serving without downtime while adding new features. Jenkins, containerization, and testing working together to make continuous integration possible."
       },
       {
         "company":"Dapatbuku",
         "title":"Web Developer",
         "years":"October 2015 - April 2016",
-        "description":"Here, I learned for the first time how to build a real-world project. I built a startup website for online book rental using Codeigniter framework."
+        "description":"Here, I learned for the first time how to build a real-world project. I built a startup website for online book rental using the Codeigniter framework."
       }
     ],
     "skills":[

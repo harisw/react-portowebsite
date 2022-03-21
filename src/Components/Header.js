@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
 import TsParticle from 'react-tsparticles';
 
@@ -10,9 +9,6 @@ class Header extends Component {
     if (!this.props.data) return null;
 
     const header = this.props.data.header;
-    const project = this.props.data.project;
-    const github = this.props.data.github;
-    const name = this.props.data.name;
     const description = this.props.data.description;
     const networks = this.props.data.social.map(function (network) {
       return (
