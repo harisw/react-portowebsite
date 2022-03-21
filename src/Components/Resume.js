@@ -48,8 +48,8 @@ class Resume extends Component {
 
       return (
         <li key={skills.name}>
-          <span style={{ width, backgroundColor }} className={className}></span>
-          <em>{skills.name}</em>
+            <span style={{ width, backgroundColor }} className={className}></span>
+            <em>{skills.name}</em>
         </li>
       );
     });
@@ -93,7 +93,7 @@ class Resume extends Component {
             </div>
 
             <div className="nine columns main-col">
-              <p>{skillmessage}</p>
+              {/* <p>{skillmessage}</p> */}
 
               <div className="bars">
                 <ul className="skills">{skills}</ul>

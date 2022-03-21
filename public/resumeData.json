@@ -3,7 +3,7 @@
     "name":"Hari Setiawan",
     "header": "I'm Hari",
     "description":"I am a freelance developer currently residing in South Korea",
-    "image":"profilepic.jpg",
+    "image":"profpic.webp",
     "bio":"I am a quick to learn person and willing to discover and accept new ideas. I got my CS degree in Indonesia, then I got my Master degree in Pusan National University recently. I have worked as software engineer in different places for six years. Mostly I used PHP framework such as Laravel and Codeigniter. I also work with C++ to develop a desktop apps. In spare time, I like to create some utility tools for my own daily purposes using Python or Javascript. Currently, I am focused on learning React Native to develop a cross platform apps. Additionally, I'm also interested to work with Web 3.0 technology especially Blockchain (e.g: Smart contract, Bitcoin)",
     "contactmessage":"If you have any inquiry you can contact me by email",
     "email": "haristw16@gmail.com",
@@ -74,29 +74,25 @@
     ],
     "skills":[
       {
-        "name":"Javascript",
-        "level":"60%",
-        "content": ""
+        "name":"Javascript (React, React Native, Node.js)",
+        "level":"70%",
+        "content": "Due to the technology these days, I have been using Javascript both in frontend and backend. In my early days, I mostly used Javascript to provide the interaction in the website. Later, I've been using Node.js with Express framework to built a reliable API accompanied with React as its frontend. Nowadays, I'm looking to improve my skill by using React Native to develop a mobile apps."
       },
       {
-        "name":"PHP",
-        "level":"55%",
-        "content": ""
+        "name":"PHP (Laravel, Codeigniter, Native)",
+        "level":"75%"
       },
       {
-        "name":"C++",
-        "level":"50%",
-        "content": ""
+        "name":"C++ (Desktop Application, MFC)",
+        "level":"50%"
       },
       {
-        "name":"Python",
-        "level":"90%",
-        "content": ""
+        "name":"Python (Scikit, Numpy, etc)",
+        "level":"50%"
       },
       {
-        "name":"Blockchain",
-        "level":"80%",
-        "content": ""
+        "name":"Blockchain (Solidity)",
+        "level":"50%"
       }
     ]
   }
