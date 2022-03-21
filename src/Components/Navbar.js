@@ -11,7 +11,7 @@ class Navbar extends Component {
               Hide navigation
             </a>
   
-            <ul id="nav" className="nav">
+            <ul id="nav" className="nav" style={{fontSize: 23}}>
               <li className="current">
                 <a className="smoothscroll" href="#home">
                   Home
