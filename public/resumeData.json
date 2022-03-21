@@ -2,7 +2,7 @@
   "main": {
     "name":"Hari Setiawan",
     "header": "I'm Hari",
-    "description":"I am a software engineer currently residing in South Korea",
+    "description":"I am a freelance developer currently residing in South Korea",
     "image":"profilepic.jpg",
     "bio":"I am a quick to learn person and willing to discover and accept new ideas. I got my CS degree in Indonesia, then I got my Master degree in Pusan National University recently. I have worked as software engineer in different places for six years. Mostly I used PHP framework such as Laravel and Codeigniter. I also work with C++ to develop a desktop apps. In spare time, I like to create some utility tools for my own daily purposes using Python or Javascript. Currently, I am focused on learning React Native to develop a cross platform apps. Additionally, I'm also interested to work with Web 3.0 technology especially Blockchain (e.g: Smart contract, Bitcoin)",
     "contactmessage":"If you have any inquiry you can contact me by email",
@@ -21,13 +21,18 @@
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/hari-setiawan/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/harisw",
         "className":"fa fa-github"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/8252588/hari-setiawan",
+        "className":"fa fa-stack-overflow"
       }
     ]
   },
@@ -44,127 +49,54 @@
         "school":"Sepuluh Nopember Institute of Technology",
         "degree":"Bachelor in Computer Science",
         "graduated":"September 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Here I found my passion to dive into the software engineering path. I studied a lot about a good database design, the importance of fault-tolerance database, etc. I finished my thesis with a topic about emotion recognition from text using ensemble method."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Medify.id",
+        "title":"Software Engineer",
+        "years":"September 2017 - March 2020",
+        "description":"I gained most of my development experience here, since I had joined Medify.id from the beginning as a startup company. I worked to develop a hospital information system from the bottom using Laravel with my team. Since Medify.id focuses on medical field system, I had to built an API system to receive the data provided by laboratorium devices. I also had the chance to developed the API using Node.js for the mobile application."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"KASKUS Networks",
+        "title":"Software Engineer Internship",
+        "years":"June 2017 - August 2017",
+        "description":"Working for a mature startup company gave me a big insight about being a software engineer. Here, I gained a chance to develop an HTML email template generator that can adapt to various marketing requirement using Codeigniter. I also learn how a continuous integration and deployment are used, so the company website can continuously serving while adding new features. Jenkins, containerization, and testing working together to make continuous integration possible."
+      },
+      {
+        "company":"Dapatbuku",
+        "title":"Web Developer",
+        "years":"October 2015 - April 2016",
+        "description":"Here, I learned for the first time how to build a real-world project. I built a startup website for online book rental using Codeigniter framework."
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Javascript",
+        "level":"60%",
+        "content": ""
       },
       {
         "name":"PHP",
-        "level":"80%"
+        "level":"55%",
+        "content": ""
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"C++",
+        "level":"50%",
+        "content": ""
       },
       {
-        "name":"JAVA",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "name":"Python",
+        "level":"90%",
+        "content": ""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "name":"Blockchain",
+        "level":"80%",
+        "content": ""
       }
     ]
   }
