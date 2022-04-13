@@ -6,8 +6,8 @@
     "image":"profpic.webp",
     "bio":"I am a quick to learn person and willing to discover and accept new ideas. I got my CS degree in Indonesia, then I got my Master's degree in Pusan National University recently. I have worked as a software engineer in different places for six years. Mostly I used PHP frameworks such as Laravel and Codeigniter, otherwise I used Nodejs and GraphQL to build an API. I also work with C++ to develop desktop apps. In my spare time, I like to create some utility tools for my daily purposes(e.g: data visualization, web crawler, etc) using Python or Javascript. Currently, I am focused on learning React Native to develop cross-platform apps. Additionally, I'm also interested to work with Web 3.0 technology especially Blockchain (e.g: Smart contract, Bitcoin)",
     "contactmessage":"If you have any inquiry you can contact me by email",
-    "email": "haristw16@gmail.com",
-    "phone": "555-555-5555",
+    "email": "haristw16@gmail.com / harisw@naver.com",
+    "phone": "",
     "github":"https://github.com/harisw",
     "project":"https://github.com/harisw",
     "address":{
@@ -74,6 +74,10 @@
     ],
     "skills":[
       {
+        "name":"Python (Django, Scikit, Numpy, Web scraping)",
+        "level":"75%"
+      },
+      {
         "name":"Javascript (React, React Native, Node.js)",
         "level":"70%",
         "content": "Due to the technology these days, I have been using Javascript both in frontend and backend. In my early days, I mostly used Javascript to provide the interaction in the website. Later, I've been using Node.js with Express framework to built a reliable API accompanied with React as its frontend. Nowadays, I'm looking to improve my skill by using React Native to develop a mobile apps."
@@ -84,10 +88,6 @@
       },
       {
         "name":"C++ (Desktop Application, MFC)",
-        "level":"50%"
-      },
-      {
-        "name":"Python (Scikit, Numpy, etc)",
         "level":"50%"
       },
       {
