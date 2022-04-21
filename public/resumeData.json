@@ -43,7 +43,7 @@
         "school":"Pusan National University",
         "degree":"Master in Computer Engineering",
         "graduated":"February 2022",
-        "description":"While here, I spent most of my time learning database systems and blockchain (Solidity and Hyperledger fabric). Since then, I am looking forward to utilizing the blockchain's nature which is secure and decentralized. Under the supervision and guidance of my Professor, I was working to develop several projects in C++. These projects are including but are not limited to vessel simulation and rule engine visualization desktop applications."
+        "description":"While here, I spent most of my time learning database systems and blockchain (Solidity and Hyperledger fabric). Since then, I am looking forward to utilizing the blockchain's nature which is secure and decentralized. Under the supervision and guidance of Prof. Hong Bonghee, I was working to develop several projects in C++. These projects are including but are not limited to vessel simulation and rule engine visualization desktop applications."
       },
       {
         "school":"Sepuluh Nopember Institute of Technology",
@@ -53,6 +53,12 @@
       }
     ],
     "work":[
+      {
+        "company":"Big Data and Database Lab (Pusan National University)",
+        "title":"Research Assistant",
+        "years":"March 2020 - February 2022",
+        "description":"I gained a lot of experienced working with Windows development environment here. I was working to develop a vessel simulation program in C++ using MFC framework. In addition, I had to optimize the program operation by using index structure, including R-Tree and TPR-Tree. These two indexes works excellent with spatial data; Advised by: Prof. Hong Bonghee"
+      },
       {
         "company":"Medify.id",
         "title":"Software Engineer",
@@ -93,6 +99,16 @@
       {
         "name":"Blockchain (Solidity)",
         "level":"50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Wenak",
+        "description": "A website to explore any recipes based on your needs. This website is built using Django and MongoDB with public dataset",
+        "image": "wenak-preview.png",
+        "url":"https://hariswdev.herokuapp.com/wenak"
       }
     ]
   }
