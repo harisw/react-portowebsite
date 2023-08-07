@@ -86,12 +86,12 @@
     ],
     "skills":[
       {
-        "name":"Python (FastAPI, Tkinter, Django, Web scraping)",
-        "level":"75%"
+        "name":"Javascript (React, NextJS, ExpressJS, Electron)",
+        "level":"80%"
       },
       {
-        "name":"Javascript (React, NextJS, ExpressJS, Electron)",
-        "level":"70%"
+        "name":"Python (FastAPI, Tkinter, Django, Web scraping)",
+        "level":"75%"
       },
       {
         "name":"Cloud Server (AWS, Google)",
