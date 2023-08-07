@@ -25,7 +25,7 @@ class About extends Component {
                 className="profile-pic"
                 src={profilepic}
                 alt="Hari Setiawan Profile"
-                style={{width: 200, height: 'auto'}}
+                style={{width: 150, height: 'auto'}}
               />
             </div>
             <div className="nine columns main-col">
